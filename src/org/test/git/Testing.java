@@ -4,10 +4,13 @@ public class Testing {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		testing();
-	}
- public static void testing() {
+		uploading();
 	
-	System.out.println("Testing the git");
+	}
+ 
+	public static void uploading() {
+	
+	System.out.println("upload git");
 }
+
 }
